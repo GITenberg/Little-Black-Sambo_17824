@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/605
     wikipedia: http://en.wikipedia.org/wiki/Helen_Bannerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17824#Little-Black-Sambo
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
